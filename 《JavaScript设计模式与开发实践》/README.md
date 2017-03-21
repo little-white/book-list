@@ -11,8 +11,8 @@
 
 * this、call、apply
 
-  - [ ] 2.1 this
-  - [ ] 2.2 call和apply
+  - [x] 2.1 this
+  - [x] 2.2 call和apply
 
 * 闭包和高阶函数
 
