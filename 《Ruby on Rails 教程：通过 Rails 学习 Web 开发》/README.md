@@ -9,13 +9,9 @@
   - [x] 1.4 [使用 Git 做版本控制](https://railstutorial-china.org/book/chapter1.html#version-control)
   - [x] 1.5 [部署](https://railstutorial-china.org/book/chapter1.html#deploying)
   - [x] 1.6 [小结](https://railstutorial-china.org/book/chapter1.html#beginning-conclusion)
-* this、call、apply
-
-  - [ ] 2.1 this
-  - [ ] 2.2 call和apply
-* 闭包和高阶函数
-
-  - [ ] 3.1 闭包
-  - [ ] 3.2 高阶函数
-  - [ ] 3.3 小结
+* [第 2 章 玩具应用](https://railstutorial-china.org/book/chapter2.html#a-toy-app)
+  - [x] 2.1 [规划应用](https://railstutorial-china.org/book/chapter2.html#planning-the-application)
+  - [x] 2.2 [Users 资源](https://railstutorial-china.org/book/chapter2.html#demo-users-resource)
+  - [x] 2.3 [Microposts 资源](https://railstutorial-china.org/book/chapter2.html#demo-microposts-resource)
+  - [x] 2.4 [小结](https://railstutorial-china.org/book/chapter2.html#toy-app-conclusion)
 
